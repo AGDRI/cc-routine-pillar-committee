@@ -1,5 +1,6 @@
 [
   {"cycle": 1, "date": "2026-09-11", "stance": "hold", "base": 10500},
   {"cycle": 2, "date": "2026-09-11", "stance": "hold", "base": 10800},
-  {"cycle": 3, "date": "2026-09-12", "stance": "hold", "base": 11200}
+  {"cycle": 3, "date": "2026-09-12", "stance": "hold", "base": 11200},
+  {"cycle": 4, "date": "2026-09-12", "stance": "hold", "base": 11500}
 ]
