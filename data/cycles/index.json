@@ -10,5 +10,6 @@
   {"cycle": 9, "date": "2026-09-12", "stance": "hold", "base": 11100},
   {"cycle": 10, "date": "2026-09-12", "stance": "hold", "base": 10700},
   {"cycle": 11, "date": "2026-09-12", "stance": "hold", "base": 11600},
-  {"cycle": 12, "date": "2026-09-12", "stance": "hold", "base": 11400}
+  {"cycle": 12, "date": "2026-09-12", "stance": "hold", "base": 11400},
+  {"cycle": 13, "date": "2026-09-12", "stance": "hold", "base": 11300}
 ]
