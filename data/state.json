@@ -33,10 +33,10 @@
   "outlookLabels": {"bull": "強気", "base": "ベース", "bear": "弱気", "unit": "円"},
   "targetRoundsPerCycle": 5,
   "targetCycles": 20,
-  "currentCycle": 7,
+  "currentCycle": 8,
   "cadence": "2時間ごと",
   "createdAt": "2026-09-11T14:00:00Z",
-  "updatedAt": "2026-09-11T22:55:00Z",
+  "updatedAt": "2026-09-12T00:44:47Z",
   "team": [
     {"key": "watanabe", "name": "渡辺 康平", "role": "代表取締役CEO", "age": 50, "background": "慶應義塾大学卒", "mbti": "ENFJ",
      "bio": "業界人脈と現場の温度感を重視する関係重視型。最終的な意思決定者として議論を統合し推奨アクションを確定させる。外部専門家を呼ぶか否かの最終判断も行う。",
